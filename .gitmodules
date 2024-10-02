@@ -1,24 +1,24 @@
 [submodule "galois"]
 	path = galois
 	url = https://github.com/mcj-group/galois.git
-	branch = mbq
+	branch = mbq_seq_cst
 [submodule "ligra"]
 	path = ligra
 	url = https://github.com/mcj-group/ligra.git
-	branch = mbq
+	branch = mbq_seq_cst
 [submodule "rbp"]
 	path = rbp
 	url = https://github.com/mcj-group/rbp.git
-	branch = mbq
+	branch = mbq_seq_cst
 [submodule "astar"]
 	path = astar
 	url = https://github.com/mcj-group/astar.git
-	branch = main
+	branch = seq_cst
 [submodule "cps"]
 	path = cps
 	url = https://github.com/mcj-group/cps.git
-	branch = main
+	branch = seq_cst
 [submodule "pbbs"]
 	path = pbbs
 	url = https://github.com/mcj-group/pbbs.git
-	branch = mbq
+	branch = mbq_seq_cst
